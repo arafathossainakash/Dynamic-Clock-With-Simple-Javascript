@@ -1,0 +1,30 @@
+body{
+    background-color: #181464;
+}
+.container{
+    width: 450px;
+    margin: 250px auto;
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+    border-radius: 10px;
+}
+.text__container{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px 0;
+    font-size: 25px;
+    color: #81ECEC;
+}
+.time__container{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px 0;
+    font-size: 80px;
+    color: #fff;
+}
+.bar{
+    width: 450px;
+    border: 10px solid #FFBD33;
+    margin: -210px auto;
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+    border-radius: 50%;
+}
